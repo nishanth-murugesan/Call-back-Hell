@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-size: 70px;
+    width: 130%;
+    padding: 150px;
+    text-align: center;
+}
